@@ -1,0 +1,43 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2021, "month": 8},
+                    "dateEnd": {"string": "Current"},
+                    "img": "images/places/logo-hah.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Chief Technology Officer - Board Member",
+                            "description": "I serve on the board of the Hook-A-Heart Foundation as CTO, where I lead all things tech—from building and maintaining web applications to managing data systems that support event registration, donations, and volunteer coordination. My work helps ensure the foundation can scale its impact as we continue to grow year after year.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Lead the design, development, and maintenance of web applications to support event registration, volunteer signups, and donations.",
+                                    "Ensure data systems and infrastructure can scale to support growing participation (from ~50 to 400+ attendees annually).",
+                                    "Provide technical guidance while Implementing and managing secure systems for payment processing, user data, and communications"
+                                ]
+                            },
+                            "province": "Lebanon",
+                            "country": "OH",
+                            "institution": "Hook-A-Heart Foundation",
+                            "tags": ["HTML", "CSS", "OAuth", "Excel", "Online Payment Systems"]
+                        }
+                    }
+                }
+
+            ]
+        }
+    ]
+}

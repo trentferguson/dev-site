@@ -7,33 +7,9 @@
                 "en": {
                     "title": null,
                     "category_all": "All",
-                    "category_productivity": "Productivity",
-                    "category_social": "Social",
+                    "category_productivity": "Personal",
+                    "category_social": "School Projects",
                     "category_utilities": "Utilities"
-                },
-
-                "es": {
-                    "title": null,
-                    "category_all": "Todos",
-                    "category_productivity": "Productividad",
-                    "category_social": "Social",
-                    "category_utilities": "Utilidades"
-                },
-
-                "fr": {
-                    "title": null,
-                    "category_all": "Tous",
-                    "category_productivity": "Productivité",
-                    "category_social": "Social",
-                    "category_utilities": "Utilitaires"
-                },
-
-                "zh": {
-                    "title": null,
-                    "category_all": "全部",
-                    "category_productivity": "生产力",
-                    "category_social": "社交",
-                    "category_utilities": "工具"
                 }
             },
             "settings": {
@@ -52,18 +28,6 @@
                             "title": "BrainPulse",
                             "description": "<b>BrainPulse</b> is your ultimate productivity app, helping you manage tasks, organize your schedule, and boost your focus. With its sleek and modern interface, BrainPulse offers features like task lists, reminders, goal tracking, and customizable productivity metrics. Whether you're a student, professional, or anyone looking to optimize their time and efficiency, BrainPulse is your go-to app for achieving more while maintaining work-life balance.",
                             "tags": ["app", "productivity", "tasks", "focus"]
-                        },
-                        "es": {
-                            "description": "<b>BrainPulse</b> es tu aplicación definitiva de productividad, que te ayuda a gestionar tareas, organizar tu horario y aumentar tu concentración. Con su interfaz elegante y moderna, BrainPulse ofrece funciones como listas de tareas, recordatorios, seguimiento de objetivos y métricas de productividad personalizables. Ya seas un estudiante, un profesional o cualquier persona que busque optimizar su tiempo y eficiencia, BrainPulse es tu aplicación indispensable para lograr más sin sacrificar el equilibrio entre el trabajo y la vida personal.",
-                            "tags": ["aplicación", "productividad", "tareas", "concentración"]
-                        },
-                        "fr": {
-                            "description": "<b>BrainPulse</b> est votre application ultime de productivité, vous aidant à gérer les tâches, organiser votre emploi du temps et améliorer votre concentration. Avec son interface élégante et moderne, BrainPulse propose des fonctionnalités telles que des listes de tâches, des rappels, un suivi des objectifs et des mesures de productivité personnalisables. Que vous soyez étudiant, professionnel ou toute personne cherchant à optimiser son temps et son efficacité, BrainPulse est votre application incontournable pour en faire plus tout en maintenant un équilibre entre travail et vie personnelle.",
-                            "tags": ["application", "productivité", "tâches", "concentration"]
-                        },
-                        "zh": {
-                            "description": "<b>BrainPulse</b> 是您的终极生产力应用，可帮助您管理任务，组织日程并增强专注力。凭借其时尚现代的界面，BrainPulse 提供任务列表、提醒、目标跟踪和可定制的生产力指标等功能。无论您是学生、专业人士还是任何希望优化时间和效率的人，BrainPulse 都是您不可或缺的应用程序，助您在保持工作与生活平衡的同时实现更多成就。",
-                            "tags": ["应用", "生产力", "任务", "专注力"]
                         }
                     },
                     "links": [
@@ -83,18 +47,6 @@
                             "title": "Stackers",
                             "description": "<b>Stackers</b> is your all-in-one organization and note-taking app, designed to streamline your digital life. With its seamless integration of task management, note organization, and cloud storage, Stackers helps you stay organized and productive. Create to-do lists, jot down ideas, and sync your notes across devices effortlessly. Whether you're a student, professional, or anyone seeking a clutter-free digital workspace, Stackers is here to elevate your organizational game.",
                             "tags": ["app", "organization", "notes", "productivity"]
-                        },
-                        "es": {
-                            "description": "<b>Stackers</b> es tu aplicación todo en uno para la organización y la toma de notas, diseñada para optimizar tu vida digital. Con su integración perfecta de gestión de tareas, organización de notas y almacenamiento en la nube, Stackers te ayuda a mantener la organización y la productividad. Crea listas de tareas, apunta ideas y sincroniza tus notas en todos tus dispositivos sin esfuerzo. Ya seas estudiante, profesional o cualquier persona que busque un espacio de trabajo digital sin desorden, Stackers está aquí para elevar tu juego organizativo.",
-                            "tags": ["aplicación", "organización", "notas", "productividad"]
-                        },
-                        "fr": {
-                            "description": "<b>Stackers</b> est votre application tout-en-un pour l'organisation et la prise de notes, conçue pour simplifier votre vie numérique. Grâce à son intégration transparente de la gestion des tâches, de l'organisation des notes et du stockage cloud, Stackers vous aide à rester organisé et productif. Créez des listes de tâches, notez vos idées et synchronisez vos notes sur tous vos appareils en toute simplicité. Que vous soyez étudiant, professionnel ou toute personne recherchant un espace de travail numérique sans encombrement, Stackers est là pour élever votre niveau d'organisation.",
-                            "tags": ["application", "organisation", "notes", "productivité"]
-                        },
-                        "zh": {
-                            "description": "<b>Stackers</b> 是您的一体化组织和记事应用，旨在优化您的数字生活。通过无缝集成的任务管理、记事组织和云存储功能，Stackers 帮助您保持组织和高效。创建待办事项列表，记录想法，并轻松在各设备间同步您的笔记。无论您是学生、专业人士还是寻求无杂乱数字工作空间的任何人，Stackers 都在此，提升您的组织能力。",
-                            "tags": ["应用", "组织", "笔记", "生产力"]
                         }
                     },
                     "links": [
@@ -114,18 +66,6 @@
                             "title": "Bird Tracker",
                             "description": "Discover and document the world of birds with <b>Bird Tracker</b>! Whether you're a seasoned birdwatcher or just starting out, this app helps you identify species, log sightings, and track migration patterns. Use AI-powered recognition, interactive maps, and detailed bird profiles to enhance your birdwatching experience. Get closer to nature with <b>Bird Tracker</b>!",
                             "tags": ["birdwatching", "nature", "wildlife", "tracking", "outdoors"]
-                        },
-                        "es": {
-                            "description": "¡Descubre y documenta el mundo de las aves con <b>Bird Tracker</b>! Ya seas un observador experimentado o un principiante, esta aplicación te ayuda a identificar especies, registrar avistamientos y seguir patrones de migración. Utiliza el reconocimiento por IA, mapas interactivos y perfiles detallados para mejorar tu experiencia en la observación de aves. ¡Acércate a la naturaleza con <b>Bird Tracker</b>!",
-                            "tags": ["observación de aves", "naturaleza", "vida silvestre", "seguimiento", "aire libre"]
-                        },
-                        "fr": {
-                            "description": "Découvrez et documentez le monde des oiseaux avec <b>Bird Tracker</b> ! Que vous soyez un ornithologue chevronné ou un débutant, cette application vous aide à identifier les espèces, enregistrer vos observations et suivre les migrations. Profitez de la reconnaissance IA, des cartes interactives et des fiches détaillées pour enrichir votre expérience. Rapprochez-vous de la nature avec <b>Bird Tracker</b> !",
-                            "tags": ["ornithologie", "nature", "faune", "suivi", "plein air"]
-                        },
-                        "zh": {
-                            "description": "使用 <b>Bird Tracker</b> 探索和记录鸟类世界！无论您是经验丰富的观鸟者还是初学者，这款应用都能帮助您识别物种、记录观测，并追踪迁徙模式。借助 AI 识别、互动地图和详细的鸟类档案，提升您的观鸟体验。与 <b>Bird Tracker</b> 一起亲近大自然！",
-                            "tags": ["观鸟", "自然", "野生动物", "追踪", "户外"]
                         }
                     },
                     "links": [

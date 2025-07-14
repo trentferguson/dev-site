@@ -33,6 +33,22 @@
         },
 
         {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A glimpse into where I’ve worked and what I’ve learned along the way",
+                    "nav_label": "Experience"
+                }
+            }
+        },
+
+        {
             "id": "skills",
             "categoryId": "showcase",
             "jsonPath": "/sections/skills.json",
@@ -48,21 +64,6 @@
             }
         },
 
-        {
-            "id": "experience",
-            "categoryId": "background",
-            "jsonPath": "/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Professional* Experience",
-                    "title_short": null,
-                    "description": "A glimpse into where I’ve worked and what I’ve learned along the way",
-                    "nav_label": "Experience"
-                }
-            }
-        },
 
         {
             "id": "portfolio",
@@ -99,15 +100,15 @@
         {
             "id": "hobbies",
             "categoryId": "more",
-            "jsonPath": "/sections/hobbies.json",
+            "jsonPath": "/sections/volunteer.json",
             "faIcon": "fa-solid fa-heart",
             "type": "column",
             "locales": {
                 "en": {
-                    "title": "*Hobbies* & Interests",
+                    "title": "*Volunteer* & Projects",
                     "title_short": null,
                     "description": "Just a glimpse at what I enjoy doing outside of the office:",
-                    "nav_label": "Hobbies"
+                    "nav_label": "Volunteer"
                 }
             }
         },
