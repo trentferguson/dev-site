@@ -15,7 +15,7 @@
                     "id": 1,
                     "locales": {
                         "en": {
-                            "description": "I've been a UX designer for <strong>8 years</strong>, crafting user-friendly interfaces that feel natural, intuitive, and seamless across different devices. My passion lies in designing digital experiences that not only look great but also function effortlessly, making interactions smoother and more enjoyable."
+                            "description": "Hi, I’m Trent — a <strong>data engineer</strong> who loves solving messy data problems and turning them into clean, usable systems. At Fifth Third Bank, I’ve helped modernize the Mortgage Data department by building cloud-based pipelines using tools like dbt, Snowflake, and Python. Before that, I worked as a full-stack developer, which taught me to think about both the data and the people using it. Outside of work, I serve on the board of the <strong>Hook-A-Heart Foundation</strong>, where I lead all things tech to help grow our mission and events. Whether I’m building something for a team, a business, or a cause — I’m all about making data work smarter."
                         },
 
                         "es": {
@@ -28,7 +28,7 @@
                     "id": 2,
                     "locales": {
                         "en": {
-                            "description": "I believe that good design should enhance people's lives, helping them navigate technology with ease and confidence. Let’s work together to bring ideas to life and build something truly amazing!"
+                            "description": "Thanks for stopping by — feel free to explore my projects, check out my experience, or just say hello!"
                         }
                     }
                 }

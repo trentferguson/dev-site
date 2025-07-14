@@ -9,7 +9,7 @@
          }">
         <!-- Loader Content -->
         <div class="resume-loader-content">
-            <ImageView src="images/icons/resume.ico"
+            <ImageView src="images/icons/blocks.svg"
                        alt="Logo"
                        class="image-view-logo"
                        :class="{
@@ -24,11 +24,8 @@
                     'resume-loader-progress-display-hidden': currentStep <  Steps.ANIMATING_PROGRESS,
                     'transition-none': currentStep < Steps.ANIMATING_PROGRESS
                  }">
-                <p class="percentage text-2"
+                <p class="percentage" style="font-size: 40px; font-family: 'Courier New', monospace; text-align: center; font-weight: bold;"
                    v-html="`${percentage}%`"/>
-
-                <ProgressBar class="resume-loader-progress-bar"
-                             :percentage="percentage"/>
             </div>
         </div>
     </div>
@@ -261,8 +258,8 @@ div.resume-loader-content {
 }
 
 div.image-view-logo {
-    width: 60px;
-    height: 60px;
+    width: 120px;
+    height: 120px;
     z-index: 10;
     opacity: 0;
 
@@ -272,7 +269,7 @@ div.image-view-logo {
 }
 
 div.resume-loader-progress-display {
-    margin-top: 10px;
+    margin-top: 30px;
     overflow: hidden;
     z-index: 5;
     transition: 0.3s all ease-out;
