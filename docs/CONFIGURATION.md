@@ -22,7 +22,7 @@ Here's a [live example](https://rbtutorials.github.io/alana-richard-vue-resume/)
 
 ### 2. Changing the content
 
-All portfolio content, including texts and images, is located in the public folder at the root level. Within this folder, you'll find two key directories:
+All portfolio content, including texts and images, is located in the public folder at the root level. Within this foldezr, you'll find two key directories:
 
 - `public/data` ➔ Contains JSON files with the portfolio's texts and general configurations.
 - `public/images` ➔ Contains all the images used in the portfolio.
