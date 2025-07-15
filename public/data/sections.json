@@ -65,6 +65,22 @@
         },
 
         {
+            "id": "volunteer",
+            "categoryId": "more",
+            "jsonPath": "/sections/volunteer.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Volunteer* & Projects",
+                    "title_short": null,
+                    "description": "Just a glimpse at some of the work I am doing in my community",
+                    "nav_label": "Volunteer"
+                }
+            }
+        },
+
+        {
             "id": "portfolio",
             "categoryId": "showcase",
             "jsonPath": "/sections/portfolio.json",
@@ -94,22 +110,7 @@
                     "nav_label": "Achievements"
                 }
             }
-        },
-
-        {
-            "id": "volunteer",
-            "categoryId": "more",
-            "jsonPath": "/sections/volunteer.json",
-            "faIcon": "fa-solid fa-heart",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Volunteer* & Projects",
-                    "title_short": null,
-                    "description": "Just a glimpse at some of the work I am doing in my community",
-                    "nav_label": "Volunteer"
-                }
-            }
         }
+
     ]
 }
