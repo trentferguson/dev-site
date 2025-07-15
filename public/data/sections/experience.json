@@ -68,7 +68,7 @@
                 {
                     "id": 3,
                     "dateStart": {"year": 2023, "month": 10},
-                    "dateEnd": {"string": "Present"},
+                    "dateEnd": {"string": "now"},
                     "img": "images/places/logo-fifth-third.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
