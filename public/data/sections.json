@@ -17,22 +17,6 @@
         },
 
         {
-            "id": "education",
-            "categoryId": "background",
-            "jsonPath": "/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Education* Background",
-                    "title_short": null,
-                    "description": "A glimpse into my academic journy and acheivments.",
-                    "nav_label": "Education"
-                }
-            }
-        },
-
-        {
             "id": "experience",
             "categoryId": "background",
             "jsonPath": "/sections/experience.json",
@@ -64,6 +48,21 @@
             }
         },
 
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Education* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic journy and acheivments.",
+                    "nav_label": "Education"
+                }
+            }
+        },
 
         {
             "id": "portfolio",
@@ -98,7 +97,7 @@
         },
 
         {
-            "id": "hobbies",
+            "id": "volunteer",
             "categoryId": "more",
             "jsonPath": "/sections/volunteer.json",
             "faIcon": "fa-solid fa-heart",
@@ -107,7 +106,7 @@
                 "en": {
                     "title": "*Volunteer* & Projects",
                     "title_short": null,
-                    "description": "Just a glimpse at what I enjoy doing outside of the office:",
+                    "description": "Just a glimpse at some of the work I am doing in my community",
                     "nav_label": "Volunteer"
                 }
             }
