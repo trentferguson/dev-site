@@ -19,7 +19,7 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/portfolio/project-logo-1.png",
+                    "img": "images/portfolio/icon-java.png",
                     "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
                     "category": "school",
@@ -44,7 +44,7 @@
                     "locales": {
                         "en": {
                             "title": "Hook-A-Heart Foundation",
-                            "description": "Designed and managed the Hook-A-Heart Foundation’s website, ensuring a secure and scalable platform for event registration and participant management. Developed and maintained databases to track participant data, donor contributions, and volunteer coordination. Implemented cybersecurity best practices to protect sensitive information and streamline operational efficiency.<br></br> WIP: This site was originaly commissioned and hsoted on Wix. I worked to completely overhaul the site with custom HTML and am currently in the process of transition away from Wix Hosting.",
+                            "description": "Designed and managed the Hook-A-Heart Foundation’s website, ensuring a secure and scalable platform for event registration and participant management. Developed and maintained databases to track participant data, donor contributions, and volunteer coordination. Implemented cybersecurity best practices to protect sensitive information and streamline operational efficiency.<br></br> WIP: This site was originaly commissioned and hosted on Wix. I worked to completely overhaul the site with custom HTML and am currently in the process of transition away from Wix Hosting.",
                             "tags": ["Webapp", "Hook-A-Heart", "Personal"]
                         }
                     },
@@ -55,7 +55,7 @@
 
                 {
                     "id": 3,
-                    "img": "images/portfolio/project-logo-6.png",
+                    "img": "images/portfolio/icon-html.png",
                     "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
                     "category": "school",

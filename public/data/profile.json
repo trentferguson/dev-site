@@ -4,7 +4,7 @@
 
     "locales": {
         "en": {
-            "credits": "",
+            "credits": "Original Template by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong><br>Icons from <strong><a href='https://macosicons.com/#/'>MacOS Icones</a></strong>",
             "role": "Data Engineer"
         }
     },
@@ -53,6 +53,14 @@
             "valueShort": "(513)-763-0477",
             "faIcon": "fa-brands fa-whatsapp",
             "href": "tel:15137630477"
+        },
+
+        {
+            "id": "Hook-A-Heart",
+            "value": "@Hook-A-Heart Foundation",
+            "valueShort": "@Hook-A-Heart",
+            "faIcon": "fa-regular fa-heart",
+            "href": "https://www.hookaheartfoundation.com/"
         }
     ]
 }
