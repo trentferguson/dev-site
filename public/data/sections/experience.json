@@ -76,12 +76,12 @@
                     "locales": {
                         "en": {
                             "title": "Data Engineer",
-                            "description": "Built scalable data pipelines and help drive the migration from legacy systems to a modern, cloud-based infrastructure using <strong>dbt</strong>, SQL, and <strong>Snowflake</strong>. I integrated data from multiple sources to create unified views that supported analytics and decision-making. I also lead training efforts to help teams adopt and leverage our updated data stack.",
+                            "description": "Built scalable data pipelines and helped drive the migration from legacy systems to a modern, cloud-based infrastructure using <strong>dbt</strong>, SQL, and <strong>Snowflake</strong>. Integrated data from multiple sources to create unified views that supported analytics and decision-making. I also lead training efforts to help teams adopt and leverage our updated data stack.",
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "• Leveraged SQL, dbt, and Snowflake to upgrade Fifth Third’s Mortgage Data department from a legacy on-prem setup to a modern cloud-based infrastructure (DB2, <strong>DataStage</strong>).",
-                                    "Designed and implemented data pipelines to <strong>process</strong>, <strong>clean</strong>, and <strong>transform</strong> large datasets, enhancing data accessibility and accuracy for analytics teams. ",
+                                    "Leveraged SQL, dbt, and Snowflake to upgrade Fifth Third’s Mortgage Data department from a legacy on-prem setup to a modern cloud-based infrastructure (DB2, <strong>DataStage</strong>).",
+                                    "Designed and implemented data pipelines to <strong>process</strong>, <strong>clean</strong>, and <strong>transform</strong> large datasets- enhancing data accessibility and accuracy for analytics teams. ",
                                     "Integrated diverse data sources (e.g., <strong>APIs</strong>, legacy databases) to create unified data views, enabling cross-functional teams to derive insights from consolidated mortgage application data. "
                                 ]
                             },
