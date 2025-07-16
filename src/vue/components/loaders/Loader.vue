@@ -24,7 +24,7 @@
                     'resume-loader-progress-display-hidden': currentStep <  Steps.ANIMATING_PROGRESS,
                     'transition-none': currentStep < Steps.ANIMATING_PROGRESS
                  }">
-                <p class="percentage" style="font-size: 40px; font-family: 'Courier New', monospace; text-align: center; font-weight: bold;"
+                <p class="percentage" style="font-size: 30px; font-family: 'Courier New', monospace; text-align: center; font-weight: bold;"
                    v-html="`${percentage}%`"/>
             </div>
         </div>
