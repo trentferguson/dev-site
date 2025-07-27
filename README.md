@@ -1,6 +1,6 @@
 # <img src="docs/assets/logo.png"><img src="docs/assets/spacer.png"> [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/) by Ryan Balieiro
 
-A clean and minimal template for building a resume landing page, powered by **Vue 3** (Composition API) and **Bootstrap 5**.
+Test - A clean and minimal template for building a resume landing page, powered by **Vue 3** (Composition API) and **Bootstrap 5**.
 
 ![alt tag1](docs/assets/promo-1.png)
 
