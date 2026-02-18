@@ -107,6 +107,38 @@
                             "level": null
                         }
                     }
+                },
+
+                {
+                    "id": 7,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-python",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "description": "From building data pipelines at work to developing full-stack web applications like homescreen-hero with FastAPI, Python is my most versatile tool for getting things done.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 8,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-layer-group",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Full-Stack Development",
+                            "description": "Comfortable working across the entire stack, from designing REST APIs and database schemas to building modern frontends with React and TypeScript, all containerized with Docker.",
+                            "level": null
+                        }
+                    }
                 }
             ]
         }

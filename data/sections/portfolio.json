@@ -8,8 +8,7 @@
                     "title": null,
                     "category_all": "All",
                     "category_personal": "Personal",
-                    "category_school": "School Projects",
-                    "category_utilities": "Utilities"
+                    "category_school": "School Projects"
                 }
             },
             "settings": {
@@ -19,6 +18,61 @@
             "items": [
                 {
                     "id": 1,
+                    "img": "images/portfolio/icon-hsh.svg",
+                    "fallbackFaIcon": "fa-solid fa-tv",
+                    "fallbackFaIconColor": "#e5a00d",
+                    "category": "personal",
+                    "locales": {
+                        "en": {
+                            "title": "homescreen-hero",
+                            "description": "A self-hosted <b>Plex companion app</b> that automatically rotates homescreen collections on a schedule. Built with a <b>FastAPI</b> backend and <b>React + TypeScript</b> frontend, it features smart rotation strategies, third-party list syncing (Trakt, Letterboxd, MDBList, AniList), Tautulli analytics integration, and a suite of server management tools. Deployed via <b>Docker</b> with an active open-source community.",
+                            "tags": ["Python", "FastAPI", "React", "TypeScript", "Docker", "Open Source"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/trentferguson/homescreen-hero", "stringKey": "view_on_github"},
+                        {"faIcon": "fa-brands fa-chrome", "href": "https://demo.homescreenhero.com", "stringKey": "view_on_site"}
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "img": "images/portfolio/icon-heart.png",
+                    "fallbackFaIcon": "fa-solid fa-crow",
+                    "fallbackFaIconColor": "#7c4d91",
+                    "category": "personal",
+                    "locales": {
+                        "en": {
+                            "title": "Hook-A-Heart Foundation",
+                            "description": "Designed and managed the Hook-A-Heart Foundation's website, ensuring a secure and scalable platform for event registration and participant management. Developed and maintained databases to track participant data, donor contributions, and volunteer coordination. Implemented cybersecurity best practices to protect sensitive information and streamline operational efficiency.<br></br> WIP: This site was originaly commissioned and hosted on Wix. I worked to completely overhaul the site with custom HTML and am currently in the process of transition away from Wix Hosting.",
+                            "tags": ["Webapp", "Hook-A-Heart", "Personal"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-chrome", "href": "https://www.hookaheartfoundation.com/", "stringKey": "view_on_site"}
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "img": "images/portfolio/icon-dev.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "personal",
+                    "locales": {
+                        "en": {
+                            "title": "Developer Site",
+                            "description": "This personal developer site was a weeknd project aftering finding a great opensource Vue.js site template. While primarily serving as personal resume and portfolio, this site also served as an excercise in multiple technologies, such as <b>DNS</b>, <b>Reverse Proxy</b>, <b>HTML/CSS</b> and <b>Vue.js</b>! <br></br> You can find the link to the opensource template that I used at the bottom left corner of the screen!",
+                            "tags": ["website", "networking", "Vue.js", "HTML"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-chrome", "href": "https://trentferguson.com/", "stringKey": "view_on_site"}
+                    ]
+                },
+
+                {
+                    "id": 4,
                     "img": "images/portfolio/icon-java.png",
                     "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
@@ -36,25 +90,7 @@
                 },
 
                 {
-                    "id": 2,
-                    "img": "images/portfolio/icon-heart.png",
-                    "fallbackFaIcon": "fa-solid fa-crow",
-                    "fallbackFaIconColor": "#7c4d91",
-                    "category": "personal",
-                    "locales": {
-                        "en": {
-                            "title": "Hook-A-Heart Foundation",
-                            "description": "Designed and managed the Hook-A-Heart Foundation’s website, ensuring a secure and scalable platform for event registration and participant management. Developed and maintained databases to track participant data, donor contributions, and volunteer coordination. Implemented cybersecurity best practices to protect sensitive information and streamline operational efficiency.<br></br> WIP: This site was originaly commissioned and hosted on Wix. I worked to completely overhaul the site with custom HTML and am currently in the process of transition away from Wix Hosting.",
-                            "tags": ["Webapp", "Hook-A-Heart", "Personal"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-chrome", "href": "https://www.hookaheartfoundation.com/", "stringKey": "view_on_site"}
-                    ]    
-                },
-
-                {
-                    "id": 3,
+                    "id": 5,
                     "img": "images/portfolio/icon-html.png",
                     "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
@@ -68,60 +104,6 @@
                     },
                     "links": [
                         {"faIcon": "fa-brands fa-github", "href": "https://github.com/trentferguson/prs-ng", "stringKey": "view_on_github"}
-                    ]
-                },
-
-                {
-                    "id": 4,
-                    "img": "images/portfolio/icon-keyboard.png",
-                    "fallbackFaIcon": "fa-solid fa-keyboard",
-                    "fallbackFaIconColor": null,
-                    "category": "utilities",
-                    "locales": {
-                        "en": {
-                            "title": "Typing Test",
-                            "description": "This is my simple <b>Typing Test App</b> writen in HTML that mimics a common online typing test site. This was a personal project shortly after graudating from Max Technical Training that I used to keep my <b>HTML</b> and <b>JavaScript</b> skills sharp!",
-                            "tags": ["app", "utilities", "HTML", "JavaScript"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/trentferguson/TypingTestApp", "stringKey": "view_on_githubb"}
-                    ]
-                },
-
-                {
-                    "id": 5,
-                    "img": "images/portfolio/icon-game.png",
-                    "fallbackFaIcon": "fa-solid fa-hippo",
-                    "fallbackFaIconColor": "#1c875b",
-                    "category": "utilities",
-                    "locales": {
-                        "en": {
-                            "title": "Brick Breaker Game",
-                            "description": "I couldn't help but recreate the game that I spent countless hours stealing my parent's Blackberry to play! My <b>Brick Breaker Game</b> is a simple web app that I wrote shortly after graduating from Max Technical Training to keep my <b>HTML</b> and <b>JavaScript</b> skills sharp!",
-                            "tags": ["game", "utilities", "HTML", "JavaScript"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/trentferguson/BrickBreakerGame", "stringKey": "view_on_github"}
-                    ]
-                },
-
-                {
-                    "id": 6,
-                    "img": "images/portfolio/icon-dev.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "personal",
-                    "locales": {
-                        "en": {
-                            "title": "Developer Site",
-                            "description": "This personal developer site was a weeknd project aftering finding a great opensource Vue.js site template. While primarily serving as personal resume and portfolio, this site also served as an excercise in multiple technologies, such as <b>DNS</b>, <b>Reverse Proxy</b>, <b>HTML/CSS</b> and <b>Vue.js</b>! <br></br> You can find the link to the opensource template that I used at the bottom left corner of the screen!",
-                            "tags": ["website", "networking", "Vue.js", "HTML"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-chrome", "href": "https://trentferguson.com/", "stringKey": "view_on_site"}
                     ]
                 }
             ]

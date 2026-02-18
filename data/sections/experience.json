@@ -52,9 +52,9 @@
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "Developed and maintained responsive, user-friendly, and visually appealing websites (<strong>Java</strong>, Springboot, <strong>HTML/CSS</strong>",
-                                    "Collaborated closely with stakeholders to understand requirements and develop tailored applications, ensuring solutions aligned with business needs and enhanced user experience.",
-                                    "erformed thorough testing, including <strong>unit testing</strong> and integration testing, to ensure software quality and stability."
+                                    "Built and enhanced responsive full-stack web applications using <strong>Java</strong>, <strong>Spring Boot</strong>, and modern front-end technologies to streamline policy underwriting workflows and improve user efficiency.",
+                                    "Partnered with business stakeholders and underwriting teams to translate functional requirements into scalable technical solutions aligned with operational needs.",
+                                    "Implemented comprehensive <strong>unit and integration testing</strong> to ensure application reliability, stability, and maintainability."
                                 ]
                             },
                             "province": "Cincinnati",
@@ -80,9 +80,10 @@
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "Leveraged SQL, dbt, and Snowflake to upgrade Fifth Third’s Mortgage Data department from a legacy on-prem setup to a modern cloud-based infrastructure (DB2, <strong>DataStage</strong>).",
-                                    "Designed and implemented data pipelines to <strong>process</strong>, <strong>clean</strong>, and <strong>transform</strong> large datasets- enhancing data accessibility and accuracy for analytics teams. ",
-                                    "Integrated diverse data sources (e.g., <strong>APIs</strong>, legacy databases) to create unified data views, enabling cross-functional teams to derive insights from consolidated mortgage application data. "
+                                    "Architected and deployed <strong>Snowflake</strong>-based data models using <strong>dbt</strong>, replacing legacy DB2/DataStage workflows and supporting $1B+ in mortgage originations while improving performance, maintainability, and deployment velocity.",
+                                    "Designed and delivered technical training programs to upskill cross-departmental teams in Snowflake, dbt, and modern data practices, accelerating adoption of the bank's cloud-first data strategy.",
+                                    "Engineered unified data models combining API and legacy system data, eliminating data silos and empowering cross-functional teams with a single source of truth for mortgage application analytics.",
+                                    "Designed and implemented scalable <strong>ELT pipelines</strong> to ingest, cleanse, and transform multi-source mortgage data."
                                 ]
                             },
                             "province": "Cincinnati",
