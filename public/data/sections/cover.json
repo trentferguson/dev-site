@@ -8,14 +8,14 @@
                 "order_items_by": "id",
                 "order_items_sort": "asc",
                 "contact_list_ids": ["address", "email", "phone"],
-                "contact_circles_ids": ["linkedin", "github", "Hook-A-Heart"]
+                "contact_circles_ids": ["linkedin", "github", "Hook-A-Heart", "homescreen-hero"]
             },
             "items": [
                 {
                     "id": 1,
                     "locales": {
                         "en": {
-                            "description": "Hi, I’m Trent — a <strong>data engineer</strong> who loves solving messy data problems and turning them into clean, usable systems. At Fifth Third Bank, I’ve helped modernize the our data technology by building cloud-based pipelines using tools like dbt, Snowflake, and Python. Before that, I worked as a full-stack developer inter, which taught me to think about both the data and the people using it."
+                            "description": "Hi, I'm Trent, a <strong>data engineer</strong> who loves solving messy data problems and turning them into clean, usable systems. At Fifth Third Bank, I’ve helped modernize the our data technology by building cloud-based pipelines using tools like dbt, Snowflake, and Python. Before that, I worked as a full-stack developer inter, which taught me to think about both the data and the people using it."
                         }
                     }
                 },
@@ -24,7 +24,7 @@
                     "id": 2,
                     "locales": {
                         "en": {
-                            "description": " Outside of work, I serve on the board of the <strong>Hook-A-Heart Foundation</strong>, where I lead all things tech to help grow our mission off craeting inclusive events for adults and children with disabilities. Whether I’m building something for a team, a business, or a cause — I’m all about making data work smarter."
+                            "description": "Outside of work, I serve on the board of the <strong>Hook-A-Heart Foundation</strong>, where I lead all things tech to help grow our mission of creating inclusive events for adults and children with disabilities. I also build open-source tools like <strong>homescreen-hero</strong>, a full-stack Plex companion app with an active community. Whether I'm building something for a team, a business, or a cause, I'm all about making technology work smarter."
                         }
                     }
                 },
@@ -33,7 +33,7 @@
                     "id": 3,
                     "locales": {
                         "en": {
-                            "description": "Thanks for stopping by — While this site is still a WIP, feel free to explore my projects, check out my experience, or just say hello!"
+                            "description": "Thanks for stopping by! While this site is still a WIP, feel free to explore my projects, check out my experience, or just say hello!"
                         }
                     }
                 }

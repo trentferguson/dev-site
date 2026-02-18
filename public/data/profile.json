@@ -61,6 +61,14 @@
             "valueShort": "@Hook-A-Heart",
             "faIcon": "fa-regular fa-heart",
             "href": "https://www.hookaheartfoundation.com/"
+        },
+
+        {
+            "id": "homescreen-hero",
+            "value": "homescreen-hero",
+            "valueShort": "homescreen-hero",
+            "faIcon": "fa-solid fa-tv",
+            "href": "https://github.com/trentferguson/homescreen-hero"
         }
     ]
 }
